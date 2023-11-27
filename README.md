@@ -1,5 +1,5 @@
 # SpringMVCFilmSite
-
+## [view the project here](http://54.86.43.173:8080/MVCFilmSite/)
 # Description
 This project is a great example of a website that interfaces with a database for its operations.
 The website allows the user to search the website for various films by different methods such as the films id or keywords in the films title or description.  
